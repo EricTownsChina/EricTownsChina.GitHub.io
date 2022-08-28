@@ -4,5 +4,5 @@
 
 * just for fun
 
-[GitHub](https://github.com/EricTownsChina/erictownschina.github.io/tree/master/docs)
+[GitHub](https://github.com/EricTownsChina/erictownschina.github.io.git)
 [Get Started](#quick-start)

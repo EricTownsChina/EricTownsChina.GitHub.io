@@ -1,4 +1,4 @@
-![logo](./tooth.svg)
+![logo](tooth.svg)
 
 # EricTowns的博客
 

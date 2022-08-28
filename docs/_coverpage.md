@@ -1,10 +1,12 @@
-![logo](https://docsify.js.org/_media/icon.svg)
+![logo](_media/icon.svg)
 
-# EricTownsChina的博客
+# docsify <small>3.5</small>
 
-> 千里沃野种的是哥萨克的头颅, 装扮静静顿河的是年轻寡妇
+> 一个神奇的文档网站生成器。
 
-* жизнь
+- 简单、轻便 (压缩后 ~21kB)
+- 无需生成 html 文件
+- 众多主题
 
-[GitHub](https://github.com/EricTownsChina/erictownschina.github.io.git)
-[Get Started](#quick-start)
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Get Started](#docsify)

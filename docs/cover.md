@@ -1,4 +1,4 @@
-## EricTowns的博客
+# EricTowns的博客
 
 [GitHub](https://github.com/EricTownsChina/erictownschina.github.io)
-[Get Started](./README.md)
+[Get Started](#EricTownsChina)

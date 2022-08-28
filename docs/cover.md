@@ -1,4 +1,4 @@
-![logo](./tooth.svg){:height="16px" width="16px"}
+![logo](./tooth.svg)
 
 # EricTowns的博客
 
